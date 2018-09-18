@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"positionOnGameBoard" : "NicolasBarrios 9/14/2018 16:40",
+		"roll:withTurn:withAmountOfSpaces:" : "NicolasBarrios 9/15/2018 20:38",
+		"initializeWithName:" : "NicolasBarrios 9/15/2018 20:41",
+		"moveForward:withAmountOfSpacesOnBoard:" : "NicolasBarrios 9/14/2018 16:46",
+		"name" : "NicolasBarrios 9/10/2018 18:03",
+		"crossLastSpaceWithAmountOfSpacesOnBoard:" : "NicolasBarrios 9/14/2018 16:46",
+		"piece" : "NicolasBarrios 9/10/2018 18:34"
+	},
+	"class" : {
+		"newPlayerWithName:" : "NicolasBarrios 9/14/2018 16:44"
+	}
+}

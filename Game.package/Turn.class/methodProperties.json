@@ -1,0 +1,10 @@
+{
+	"instance" : {
+		"alternateTurn" : "Matias 9/14/2018 18:18",
+		"initializeWithPlayers:" : "Matias 9/14/2018 16:21",
+		"nextPlayerTurn" : "NicolasBarrios 9/11/2018 18:39"
+	},
+	"class" : {
+		"newTurnWithPlayer:" : "NicolasBarrios 9/11/2018 18:38"
+	}
+}

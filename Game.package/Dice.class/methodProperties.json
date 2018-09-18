@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"roll" : "NicolasBarrios 9/8/2018 18:49",
+		"initializeWithAmountOfFaces:" : "Matias 9/5/2018 22:18",
+		"initializeWithAmountOfFaces:diceType:" : "NicolasBarrios 9/8/2018 18:51"
+	},
+	"class" : {
+		"newDeterministicDiceWithAmountOfFaces:" : "NicolasBarrios 9/9/2018 19:19",
+		"newRandomDiceWithAmountOfFaces:" : "NicolasBarrios 9/9/2018 19:19",
+		"forRandomDiceWithAmountOfFaces:" : "Matias 9/5/2018 22:07"
+	}
+}

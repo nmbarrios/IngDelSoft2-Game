@@ -1,0 +1,20 @@
+{
+	"instance" : {
+		"testPlayer1RollPlayer2RollAndPlayer1RollAgainPlayer2RollAgain" : "NicolasBarrios 9/15/2018 20:42",
+		"testCreatingRandomDiceWithAmountOfFacesMinus3Fails" : "NicolasBarrios 9/9/2018 19:19",
+		"testCreatingBoardWith30Spaces" : "NicolasBarrios 9/9/2018 19:10",
+		"testAPlayerRollTwoTimesTheDiceInARowAndTheSecondOneFails" : "NicolasBarrios 9/15/2018 20:43",
+		"testRollDeterministicDiceOutcomes2" : "NicolasBarrios 9/15/2018 20:30",
+		"testPlayerDontCrossTheLastSpaces" : "NicolasBarrios 9/14/2018 16:49",
+		"testPlayerRolls5DicesAtOnceAndMovesToSpaceNumber5" : "NicolasBarrios 9/15/2018 20:55",
+		"testCreatingPlayerWithNameMartin" : "NicolasBarrios 9/14/2018 16:49",
+		"testCreatingBoardWithMinus30SpacesFails" : "NicolasBarrios 9/9/2018 19:18",
+		"testPlayerMovesForwardOnGameBoard" : "NicolasBarrios 9/14/2018 16:45",
+		"testCreateTurnWithPlayersMartinandKevinAndFirstTurnIsMartin" : "NicolasBarrios 9/14/2018 16:50",
+		"testPlayer1RollPlayer2RollAndPlayer1RollAgain" : "NicolasBarrios 9/15/2018 20:43",
+		"testPlayerMovesForwardRollingADiceOnTheGameBoard" : "NicolasBarrios 9/15/2018 20:42",
+		"testRollRandomDiceOutcomesLessEqualsThanNumberOfFaces" : "NicolasBarrios 9/14/2018 16:46",
+		"testRollDeterministicDiceWithAmountOfFaces3AndRollOutcomeIsLessThan3" : "NicolasBarrios 9/14/2018 16:46"
+	},
+	"class" : { }
+}
